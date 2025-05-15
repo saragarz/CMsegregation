@@ -43,7 +43,7 @@ Pasando el ratón por cada centro se pueden ver más datos:
 - Alumnos totales.
 
 ## Centros cercanos de segregación opuesta
-Para destacar algunos casos interesantes, se pueden visualizar centros de segregación lo suficientemente opuesta (un _gi_ de signo contrario y mayor que 0.2 en valor absoluto) que estén a una distancia menor a:
+Para destacar algunos casos interesantes, se pueden visualizar centros de segregación lo suficientemente opuesta (un _gi_ de signo contrario y mayor que 0.03 en valor absoluto) que estén a una distancia menor a:
 - 1 kilómetro.
 - 500 metros.
 - 300 metros.
