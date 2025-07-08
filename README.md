@@ -7,7 +7,7 @@ in the "Comunidad de Madrid". We analyze over 100,000 applications for the first
 We present visualizations of segregation at three levels:
 - Segregation of each school with respect to the entire "Comunidad de Madrid" ([`global_segregation_schools.html`](global_segregation_schools.html)).
 - Segregation of each municipality in respect to the "Comunidad de Madrid" ([`global_segregation_municipalities.html`](global_segregation_municipalities.html)).
-- Segregation of each school considering only its own municipality ([`local_segregation_schools.html`](local_segregation_schools.html)).
+- Segregation of each school in the context of its own municipality ([`local_segregation_schools.html`](local_segregation_schools.html)).
 
 Each map displays the following information for each school or municipality:
 - **Name.**
