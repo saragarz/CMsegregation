@@ -16,7 +16,7 @@ Each map displays the following information for each school or municipality:
 - **Segregation Value.**
   - Computed using a disaggregated version of Gorard's segregation index:
   
-    Segregation Value = A_n / A_N - T_n / T_N
+    Segregation Value = `A_n` / `A_N` - `T_n` / `T_N`
     
     where:
     - `N` refers to the total area considered (e.g., *Comunidad de Madrid* or a specific municipality).
