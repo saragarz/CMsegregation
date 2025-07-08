@@ -26,3 +26,11 @@ Each map displays the following information for each school or municipality:
       
   - Schools/municipalities which segregation value is positive (indicating a surplus of minimum-income students) are colored in red.
   - Schools/municipalities which segregation value is negative (indicating a shortage of minimum-income students) are colored in blue.
+
+
+This research is part of the project **VAE: Value-Aware Systems. Value Engineering in Artificial Intelligence Systems**, subproject: **Value-Conscious Systems**, funded by **MCIN / AEI / 10.13039/501100011033**, and by the **European Union – NextGenerationEU / PRTR**.
+
+The used data was provided by the "Consejería de Educación de la Comunidad de Madrid" upon request by Mar Moreno Rebato and José Antonio Rodríguez García, as described in their article:  
+**"El acceso a los datos en los procesos de asignación de plazas escolares con fines de investigación científica: La utilización de la inteligencia artificial en este contexto"**,  
+*Revista Española de la Transparencia*, no. 21, pp. 129–156, June 2025.  
+[https://revistatransparencia.com/ojs/index.php/ret/article/view/359](https://revistatransparencia.com/ojs/index.php/ret/article/view/359) — DOI: [10.51915/ret.359](https://doi.org/10.51915/ret.359)
