@@ -11,7 +11,7 @@ We present visualizations of segregation at three levels:
 
 Each map displays the following information for each school or municipality:
 - **Name.**
-- **Number of inimum-income students admitted.**
+- **Number of minimum-income students admitted.**
 - **Total number of students admitted.**
 - **Segregation Value.**
   - Computed using a disaggregated version of Gorard's segregation index:
