@@ -1,3 +1,4 @@
+# GENERAL QUERIES
 AdmittedApplication(student:, course:, priority:, school_code:, school_name:,
     school_province:, school_municipality:, school_district:, school_district_name:,
     scoring_province:, scoring_municipality:, scoring_district:,
@@ -151,6 +152,7 @@ ExtremeSchoolsShortage(school_code:, school_name:, minority_students:,
     MinorityGroupStudentsSchool(students:minority_students, school_code:),
     TotalStudentsSchool(students:total_students, school_code:);
 
+# SCHOOLS LOCATION
 SchoolCoordinates(x:, y:, school_code:, school_name:) :-
     School(school_code:,  school_name:, address_coord_x:x, address_coord_y:y);
 
@@ -164,3 +166,7 @@ Distance(distance:, x1:, y1:, x2:, y2:) :-
 
 SchoolTypeName(school_type_name:school_type_desc_abbr++" "++school_name, school_code:) :-
     School(school_code:, school_name:, school_type_desc_abbr:);
+
+# MUNICIPALITIES LOCATION
+PolygonMunicipality(polygon:, municipality:) :-
+    GeometryMunicipality(NAMEUNIT: municipality, geometry:polygon);
